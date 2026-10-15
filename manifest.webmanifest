@@ -1,0 +1,11 @@
+{
+  "name": "NMA — The Little Universe That Loves You",
+  "short_name": "Nma's Universe",
+  "description": "Seven minutes of magic, made for one very special girl.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#170e2b",
+  "theme_color": "#170e2b",
+  "icons": [{"src":"assets/star.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
